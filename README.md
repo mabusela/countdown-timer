@@ -1,2 +1,3 @@
-# countdown-timer
-JavaScript Project for a Count Down Timer
+# Countdown Timer
+
+How to make a countdown timer using JavaScript Coding Challenge.
